@@ -30,10 +30,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/3b50097220cc41209b61fae6ed819e8a">
+    </a>
+    <a href="https://www.loom.com/share/3b50097220cc41209b61fae6ed819e8a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3b50097220cc41209b61fae6ed819e8a-3b99b7926ad6feba-full-play.gif#t=0.1">
+    </a>
+  </div>
+  
 ## Notes
 
 The main challenges I encountered while building the app were figuring out how to fetch and  parse the data from the remote API. At times the questions would be formatted incorrectly when being showed due to special characters. But after a bit of configuring it ended up being solved.
